@@ -5,4 +5,4 @@ Simple password generator software with simple GUI
 
 
 What is Zabu? Actually you need to ask who is Zabu? She is our babygirl cat :) 🐱‍👤
-Just download the zip file and run the main.exe file. You can find the source code in main.py file. I used auto py-to-exe for converting to exe.
+Just download the zip file and run the main.exe. You can find the source code in main.py file. I used auto py-to-exe for converting to exe.
