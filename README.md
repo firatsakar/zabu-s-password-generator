@@ -1,7 +1,7 @@
 # Zabu's Password Generator
 Simple password generator software with simple GUI
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Zabu's Password Generator](https://raw.githubusercontent.com/firatsakar/zabu-s-password-generator/main/screenshot.PNG)
 
 
 What is Zabu? Actually you need to ask who is Zabu? She is our babygirl cat :) 🐱‍👤
